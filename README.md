@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nikhil Katika</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Katika
+  <img src="https://camo.githubusercontent.com/985c64c4646ade2c1193bc643fce7cc9498caeaff5a4da9085a68fc7b5c1e3c2/68747470733a2f2f656d6f6a6970656469612d75732e73332e616d617a6f6e6177732e636f6d2f736f757263652f736b7970652f3238392f67686f73745f31663437622e706e67" width="35" style="vertical-align: middle;"/>
+</h1>
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkatikads&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkatikads" /> </p>
