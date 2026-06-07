@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nikhilkatika1@gmail.com**
 
-- 📄 Know about my experiences [2 Years in TCS Front End Developer](2 Years in TCS Front End Developer)
+- 📄 Know about my experiences (2 Years in TCS Front End Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
